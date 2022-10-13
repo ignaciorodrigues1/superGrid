@@ -2,7 +2,8 @@
 A customizable, modular, responsive, grid plugin. No dependencies.\ Available for React.js, Angular, Vue.js, and typescript.
 
 ## Core features
--   
+
+-   Custom and easy Grid organization.
 -   Fully responsive.
 -   Modular architecture with built in plugins.
 -   Masonry feature.
