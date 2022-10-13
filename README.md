@@ -1,11 +1,11 @@
-# superGrid
+# superGrid (WIP)
 superGrid is a feature-rich, modular JavaScript grid library for building beautiful card, image and video grids for the web and the mobile. superGrid is available for React, Vue.js, Angular and typescript.
 
 A customizable, modular, responsive, grid plugin. No dependencies.
 
 [Website](https://www.supergridjs.com/)
 
-## Core features
+## Core fseatures
 
 -   Custom and easy Grid organization.
 -   Fully responsive.
@@ -44,7 +44,7 @@ superGrid supports all major browsers including IE 10 and above.
 
 #### Commercial license
 
-If you want to use lightGallery to develop commercial sites, themes, projects,
+If you want to use superGrid to develop commercial sites, themes, projects,
 and applications, the Commercial license is the appropriate license. With this
 option, your source code is kept proprietary.
 [Read more about the commercial license](https://www.supergridjs.com/license/)
