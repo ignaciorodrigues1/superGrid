@@ -3,7 +3,7 @@ superGrid is a feature-rich, modular JavaScript grid library for building beauti
 
 A customizable, modular, responsive, grid plugin. No dependencies.
 
-![website](https://www.supergridjs.com/)
+[Website](https://www.supergridjs.com/)
 
 ## Core features
 
